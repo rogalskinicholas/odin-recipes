@@ -1,0 +1,73 @@
+* {
+    font-family: monospace, "Courier New";
+    background-color: #FFFDE1;
+    margin: 0px;
+}
+
+.title {
+    background-color: #79AE6F;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-weight: 800px;
+}
+
+ul,li {
+    background-color: #F2EDC2;
+    padding: 3px;
+    margin: auto;
+    text-align: center;
+    list-style-position: inside;
+    font-weight: 300px;
+}
+
+#home {
+    background-color: #D96868;
+    text-align: center;
+    margin: auto;
+    display: block;
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #9FCB98;
+}
+
+.header {
+    background-color: #9FCB98;
+    padding: 10px;
+    margin: 0px;
+}
+
+.description-para, .description-para2 {
+    background-color: #F2EDC2;
+    margin: 20px;
+}
+
+.description-para2 {
+    margin-top: 20px;
+}
+
+em {
+    display: inline;
+    margin: 0px;
+}
+
+.header-step {
+    font-weight: 900px;
+    padding: 10px;
+    text-align: center;
+    background-color: #F2D479;
+}
+
+.enjoy-statement {
+    text-align: center;
+    font-weight: 1000px;
+    padding: 20px;
+    background-color: #D96868;
+}
